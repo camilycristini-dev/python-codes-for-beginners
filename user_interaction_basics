@@ -1,15 +1,26 @@
-# Learned concepts
-# input(): user data input
-# print(): display messages to the user
-# int(): convert text to integer
-# Assignment operator (=)
-# Use of parentheses ()
-# Use of comma (,) in print
-# Addition operator (+)
-
-# Code below
+# Example 1
 
 n1 = int(input("Enter a number: "))
 n2 = int(input("Enter another number: "))
 result = n1 + n2
 print("The sum is:", result)
+
+# Exemple 2
+
+name = input("What is your name? ")
+age = input("How old are you? ")
+weight = input("What is your weight? ")
+print(name, age, weight)
+
+# Example 3
+
+name = input("What is your name? ")
+print("Hello", name, "!", "Nice to meet you!")
+
+# Example 4
+
+name = input("What is your name? ")
+day = input("What day were you born? ")
+month = input("What month were you born? ")
+year = input("What year were you born? ")
+print(name, "you were born on", day, "of", month, "of", year, ". Correct?")

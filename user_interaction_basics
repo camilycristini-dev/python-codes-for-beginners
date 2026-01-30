@@ -1,0 +1,15 @@
+# Learned concepts
+# input(): user data input
+# print(): display messages to the user
+# int(): convert text to integer
+# Assignment operator (=)
+# Use of parentheses ()
+# Use of comma (,) in print
+# Addition operator (+)
+
+# Code below
+
+n1 = int(input("Enter a number: "))
+n2 = int(input("Enter another number: "))
+result = n1 + n2
+print("The sum is:", result)

@@ -1,22 +1,15 @@
-# Python — Initial Studies and User Interaction
+# Learning Python
 
-This repository is part of my Python learning portfolio and presents the development of initial skills in the language, with a focus on interaction between the program and the user.
+This repository documents my learning process in Python, bringing together codes developed throughout my studies and showing my progression in the language.
 
-## Description
+## About the repository
 
-The content in this repository demonstrates the creation of simple programs capable of displaying messages to the user, collecting data through user input, and using this information to perform actions and generate results. The main goal is to strengthen basic programming logic and understand the input → processing → output workflow.
-
-## Skills Developed
-- Program and user interaction
-- Data collection through user input
-- Storing values in variables
-- Using user responses to drive program actions
-- Clear presentation of results
+The codes in this repository were created as part of a progressive learning journey in Python. Each folder and file represents concepts studied at different stages, allowing the tracking of logical reasoning development, user interaction, and the creation of simple and functional programs.
 
 ## Organization
 
-The codes developed during the learning process are organized into specific sections of the repository, allowing a progressive view of skill development.
+The content is organized into folders according to the topics studied. The files include explanatory comments indicating the concepts covered at each stage of learning.
 
 ## Objective
 
-To build a solid foundation in Python, develop logical reasoning, and document technical growth through simple and functional programs.
+To build a solid foundation in Python, develop programming logic, and keep an organized record of technical growth throughout the learning process.
